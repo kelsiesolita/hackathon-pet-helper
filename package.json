@@ -1,0 +1,17 @@
+{
+  "name": "dogapi",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "dog-api.js",
+  "scripts": {
+    "test": "npx tsx dog-api.ts"
+  },
+  "dependencies": {
+    "litellm": "^0.12.0",
+    "tsx": "^4.22.3"
+  }
+}
+
