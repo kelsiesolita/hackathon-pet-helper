@@ -6,11 +6,11 @@ Users should be able to describe their living situation, daily routines, experie
 
 This is a good case for exploring agentic and retrieval-augmented patterns because the system needs to:
 
-Understand loosely structured user input about lifestyle and preferences
-Retrieve relevant information about pets and breeds from external sources or datasets
-Combine retrieved knowledge with model reasoning to generate recommendations
-Compare different pets or breeds in a meaningful way based on user context
-Translate data (e.g. size, energy level, temperament) into human-readable advice
+* Understand loosely structured user input about lifestyle and preferences
+* Retrieve relevant information about pets and breeds from external sources or datasets
+* Combine retrieved knowledge with model reasoning to generate recommendations
+* Compare different pets or breeds in a meaningful way based on user context
+* Translate data (e.g. size, energy level, temperament) into human-readable advice
 
 # Other ideas
 
