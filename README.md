@@ -1,4 +1,4 @@
-#The Brief
+# The Brief
 
 Build a RAG / agentic application that helps users find a pet that fits their lifestyle and preferences.
 
@@ -12,7 +12,8 @@ Combine retrieved knowledge with model reasoning to generate recommendations
 Compare different pets or breeds in a meaningful way based on user context
 Translate data (e.g. size, energy level, temperament) into human-readable advice
 
-#Other ideas
+# Other ideas
+
 * Ask the user questions and based on that suggest what breed best represent their personality.
 * Maybe recommend other animals then dogs, some users maybe would be better of with a goldfish or maybe a highland cow.
 
